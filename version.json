@@ -1,5 +1,5 @@
-"latest_version": "1.2.0",
-  "download_url": "https://github.com/LiMojian/Monkey-Test-Tool/releases/download/v1.2.0/king.exe",
+"latest_version": "1.1.0",
+  "download_url": "https://github.com/LiMojian/Monkey-Test-Tool/releases/download/v1.1.0/king.exe",
   "sha256": "文件的SHA256哈希值",  // 通过 hashlib.sha256(open('file.exe','rb').read()).hexdigest() 生成
   "changelog": "1. 新增XX功能\n2. 修复了XX问题"
 }
