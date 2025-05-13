@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0.1",
-  "download_url": "https://github.com/LiMojian/Monkey-Test-Tool/releases/tag/V1.0.1/King V1.0.1.exe",
-  "release_notes": "测试OTA"
+  "download_url": "https://github.com/LiMojian/Monkey-Test-Tool/releases/tag/V1.0.2/King_V1.0.2.exe",
+  "release_notes": "1. 将密钥输入可视化/n2. 替换更新后删除旧应用逻辑"
 }
